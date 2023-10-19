@@ -1,3 +1,4 @@
+#!/usr/bin/evn php
 <?php
 
 require "vendor/autoload.php";
